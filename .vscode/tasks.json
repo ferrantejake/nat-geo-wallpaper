@@ -1,0 +1,17 @@
+{
+    "version": "0.1.0",
+    "command": "/usr/bin/python",
+    "args": [
+        "../main.py"
+    ],
+    "problemMatcher": {
+        "fileLocation": [
+            "relative",
+            "${workspaceRoot}"
+        ],
+        "pattern": {
+            "regexp": "^(.*)+s$",
+            "message": 1
+        }
+    }
+}
